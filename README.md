@@ -2,6 +2,8 @@
 
 > A Jekyll version of the "Editorial" theme by [HTML5 UP][html5up].
 
+You can preview the template [here](https://apehex.github.io/jekyll-theme-stellar).
+
 ![Editorial Theme](assets/images/screenshot.jpg "Stellar Theme")
 
 # Installation
