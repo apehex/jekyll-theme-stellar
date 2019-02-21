@@ -1,3 +1,4 @@
+# coding: utf-8
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
@@ -6,9 +7,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["apehex"]
   spec.email         = ["apehex@protonmail.com"]
 
-  spec.summary       = "TODO: Write a short summary, because Rubygems requires one."
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
-  spec.license       = "MIT"
+  spec.summary       = %q{A Jekyll version of the "Stellar" theme by HTML5 UP.}
+  spec.homepage      = "https://github.com/apehex/jekyll-theme-stellar"
+  spec.license       = "CCA 3.0"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README)!i) }
 
