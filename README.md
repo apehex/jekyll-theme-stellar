@@ -114,7 +114,7 @@ Repository [Jekyll logo][jekyll-logo] icon licensed under a [Creative Commons At
 
 ## License
 
-The theme is available as open source under the terms of the [CC BY 3.0](LICENSE).
+The theme is available as open source under the terms of the [CC-BY-3.0](LICENSE).
 
 [andrew-banchich]: https://gitlab.com/andrewbanchich
 [cc4-license]: http://choosealicense.com/licenses/cc-by-4.0/
