@@ -3,15 +3,15 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-stellar"
-  spec.version       = "0.1.0"
+  spec.version       = "0.1.1"
   spec.authors       = ["apehex"]
   spec.email         = ["apehex@protonmail.com"]
 
-  spec.summary       = 'A Jekyll version of the \"Stellar\" theme by HTML5 UP.'
+  spec.summary       = 'A Jekyll version of the \"Stellar\" theme by HTML5 UP, full featured.'
   spec.homepage      = "https://github.com/apehex/jekyll-theme-stellar"
   spec.license       = "CC-BY-3.0"
 
-  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_home_sections|_layouts|_includes|_sass|LICENSE|README)!i) }
+  spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_home_sections|_layouts|_includes|_sass|LICENSE|README|sitemap.md)!i) }
 
   spec.add_runtime_dependency "jekyll", "~> 3.8"
 
