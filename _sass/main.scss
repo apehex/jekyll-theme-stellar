@@ -24,6 +24,10 @@
 		xxsmall:  ( null,    360px  )
 	));
 
+// Components
+
+@import 'components/cookieconsent';
+
 // Mixins.
 
 	@mixin color($p) {
@@ -49,6 +53,7 @@
 	@import 'components/row';
 	@import 'components/box';
 	@import 'components/button';
+	@import 'components/cookieconsent';
 	@import 'components/form';
 	@import 'components/icon';
 	@import 'components/image';
