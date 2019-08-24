@@ -15,16 +15,23 @@ phone: (716) 555-5555
 email: youremailaddress@gmail.com
 
 # Social settings
-500px_url:
-facebook_url:
+500px_url: https://github.com/apehex
+facebook_url: https://github.com/apehex
 github_url: https://github.com/apehex
-gitlab_url:
-googleplus_url:
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com
+gitlab_url: https://github.com/apehex
+instagram_url: https://github.com/apehex
+linkedin_url: https://github.com/apehex
+medium_url: https://github.com/apehex
+pinterest_url: https://github.com/apehex
+slack_url: https://github.com/apehex
+snapchat_url: https://github.com/apehex
+twitter_url: https://github.com/apehex
+
+# Optional elements
+logo_url: /assets/images/logo.svg
+favicon_url: /assets/images/favicon.ico
+legal_terms_url: /legal-terms
+privacy_policy_url: /privacy-policy
 
 # Collections
 collections:

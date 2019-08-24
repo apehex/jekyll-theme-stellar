@@ -50,5 +50,11 @@
             {% endif %}
         </ul>
     </section>
-    <p class="copyright">&copy; {{ site.title }} {{ site.subtitle }}. Design: <a href="https://html5up.net">HTML5 UP</a>. Jekyll integration: <a href="http://github.com/apehex" target="_blank">apehex</a></p>
+    <p class="copyright">
+        &copy; {{ site.title }} {{ site.subtitle }}.
+        Design: <a href="https://html5up.net">HTML5 UP</a>.
+        Jekyll integration: <a href="http://github.com/apehex" target="_blank">apehex</a>.
+        {% if site.privacy_policy_url %}<a href="{{ site.privacy_policy_url | absolute_url }}">Privacy policy</a>.{% endif %}
+        {% if site.legal_terms_url %}<a href="{{ site.legal_terms_url | absolute_url }}">Legal terms</a>.{% endif %}
+    </p>
 </footer>
