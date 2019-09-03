@@ -18,43 +18,43 @@
             <dd><a href="#">{{ site.email }}</a></dd>
         </dl>
         <ul class="icons">
-            {% if site.twitter_url %}
-            <li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+            {% if site.twitter.url %}
+            <li><a href="{{ site.twitter.url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
             {% endif %}
-            {% if site.googleplus_url %}
-            <li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
+            {% if site.googleplus.url %}
+            <li><a href="{{ site.googleplus.url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
             {% endif %}
-            {% if site.facebook_url %}
-            <li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+            {% if site.facebook.url %}
+            <li><a href="{{ site.facebook.url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
             {% endif %}
-            {% if site.instagram_url %}
-            <li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
+            {% if site.instagram.url %}
+            <li><a href="{{ site.instagram.url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
             {% endif %}
-            {% if site.pinterest_url %}
-            <li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
+            {% if site.pinterest.url %}
+            <li><a href="{{ site.pinterest.url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
             {% endif %}
-            {% if site.500px_url %}
-            <li><a href="{{ site.500px_url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
+            {% if site.500px.url %}
+            <li><a href="{{ site.500px.url }}" class="icon alt fa-500px" target="_blank"><span class="label">500px</span></a></li>
             {% endif %}
-            {% if site.gitlab_url %}
-            <li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
+            {% if site.gitlab.url %}
+            <li><a href="{{ site.gitlab.url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
             {% endif %}
-            {% if site.github_url %}
-            <li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
+            {% if site.github.url %}
+            <li><a href="{{ site.github.url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
             {% endif %}
-            {% if site.slack_url %}
-            <li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+            {% if site.slack.url %}
+            <li><a href="{{ site.slack.url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
             {% endif %}
-            {% if site.linkedin_url %}
-            <li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+            {% if site.linkedin.url %}
+            <li><a href="{{ site.linkedin.url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
             {% endif %}
         </ul>
     </section>
     <p class="copyright">
-        &copy; {{ site.title }} {{ site.subtitle }}.
+        &copy; {{ copyright.holder }} - {{ copyright.license }}.
         Design: <a href="https://html5up.net">HTML5 UP</a>.
         Jekyll integration: <a href="http://github.com/apehex" target="_blank">apehex</a>.
-        {% if site.privacy_policy_url %}<a href="{{ site.privacy_policy_url | absolute_url }}">Privacy policy</a>.{% endif %}
-        {% if site.legal_terms_url %}<a href="{{ site.legal_terms_url | absolute_url }}">Legal terms</a>.{% endif %}
+        {% if site.privacy_policy.url %}<a href="{{ site.privacy_policy.url | absolute_url }}">Privacy policy</a>.{% endif %}
+        {% if site.legal_terms.url %}<a href="{{ site.legal_terms.url | absolute_url }}">Legal terms</a>.{% endif %}
     </p>
 </footer>
