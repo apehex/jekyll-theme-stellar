@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /privacy-policy/
+lang-ref: privacy-policy-page
 ---
 # Privacy Policy
 

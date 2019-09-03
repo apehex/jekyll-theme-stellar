@@ -1,5 +1,6 @@
 ---
 layout: page
+lang-ref: elements-page
 title: Elements
 subtitle:
 ---
