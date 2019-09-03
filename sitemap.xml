@@ -4,25 +4,150 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   
-  <url>
-    <loc>https://apehex.github.io/jekyll-theme-stellar/elements.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/elements.html" />
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  
-  
-  <url>
-    <loc>https://apehex.github.io/jekyll-theme-stellar/generic.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/generic.html" />
-    <changefreq>weekly</changefreq>
-  </url>
-  
-  
   
   <url>
     <loc>https://apehex.github.io/jekyll-theme-stellar/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/" />
+    
+    <xhtml:link rel="alternate" hreflang="" href="https://apehex.github.io/jekyll-theme-stellar/" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/en/" />
+    
+    <xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-stellar/fr/" />
+    
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://apehex.github.io/jekyll-theme-stellar/en/elements.html</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/en/elements.html" />
+    
+    <xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-stellar/fr/elements.html" />
+    
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://apehex.github.io/jekyll-theme-stellar/en/generic.html</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/en/generic.html" />
+    
+    <xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-stellar/fr/generique.html" />
+    
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://apehex.github.io/jekyll-theme-stellar/en/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="" href="https://apehex.github.io/jekyll-theme-stellar/" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/en/" />
+    
+    <xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-stellar/fr/" />
+    
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://apehex.github.io/jekyll-theme-stellar/en/legal-terms.html</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/en/legal-terms.html" />
+    
+    <xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-stellar/fr/mentions-legales.html" />
+    
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://apehex.github.io/jekyll-theme-stellar/en/privacy-policy.html</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/en/privacy-policy.html" />
+    
+    <xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-stellar/fr/politique-de-confidentialite.html" />
+    
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://apehex.github.io/jekyll-theme-stellar/fr/elements.html</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/en/elements.html" />
+    
+    <xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-stellar/fr/elements.html" />
+    
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://apehex.github.io/jekyll-theme-stellar/fr/generique.html</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/en/generic.html" />
+    
+    <xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-stellar/fr/generique.html" />
+    
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://apehex.github.io/jekyll-theme-stellar/fr/</loc>
+    
+    <xhtml:link rel="alternate" hreflang="" href="https://apehex.github.io/jekyll-theme-stellar/" />
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/en/" />
+    
+    <xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-stellar/fr/" />
+    
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://apehex.github.io/jekyll-theme-stellar/fr/mentions-legales.html</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/en/legal-terms.html" />
+    
+    <xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-stellar/fr/mentions-legales.html" />
+    
+    <changefreq>weekly</changefreq>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://apehex.github.io/jekyll-theme-stellar/fr/politique-de-confidentialite.html</loc>
+    
+    <xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/jekyll-theme-stellar/en/privacy-policy.html" />
+    
+    <xhtml:link rel="alternate" hreflang="fr" href="https://apehex.github.io/jekyll-theme-stellar/fr/politique-de-confidentialite.html" />
+    
     <changefreq>weekly</changefreq>
   </url>
   
