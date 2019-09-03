@@ -1,14 +1,17 @@
 # Navigation menu
 menu:
   default:
-    - title: Home
-      url: /en/
-    - title: Generic
-      url: /en/generic/
-    - title: Elements
-      url: /en/elements/
-      menu:
-        - title: Normal Style
-          url: /en/elements/#normal-style
-        - title: Inverted Style
-          url: /en/elements/#inverted-style
+    en:
+      - title: Home
+        url: /en/
+      - title: Generic
+        url: /en/generic/
+      - title: Elements
+        url: /en/elements/
+    fr:
+      - title: Accueil
+        url: /fr/
+      - title: Generique
+        url: /fr/generique/
+      - title: Eléments
+        url: /fr/elements/
