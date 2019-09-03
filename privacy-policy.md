@@ -36,7 +36,7 @@ Where necessary, this website uses cookies to store information about a visitorâ
 
 This website does not contain any third party advertisement.
 
-It is hosted on {{ site.hosting_third_party |Â default: github }}.
+It is hosted on {{ site.hosting_third_party }}.
 
 
 ## Links to Third Party Websites
