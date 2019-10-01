@@ -2,7 +2,7 @@
 layout: page
 lang-ref: privacy-policy-page
 ---
-# Privacy Policy
+# Politique de Confidentialit√©
 
 Effective date: {{ site.time | date: '%F' }}
 
@@ -36,7 +36,7 @@ Where necessary, this website uses cookies to store information about a visitor‚
 
 This website does not contain any third party advertisement.
 
-It is hosted on {{ site.hosting_third_party }}.
+It is hosted on {{ site.privacy_policy.third_party.hosting }}.
 
 
 ## Links to Third Party Websites
