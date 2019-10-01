@@ -16,6 +16,6 @@ title: Introduction
                 <li><a href="generic.html" class="button">Learn More</a></li>
             </ul>
         </div>
-        <span class="image"><img src="assets/images/pic01.jpg" alt="" /></span>
+        <span class="image"><img src="{{ 'assets/images/pic01.jpg' | absolute_url }}" alt="" /></span>
     </div>
 </section>
