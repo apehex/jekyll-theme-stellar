@@ -48,6 +48,10 @@ privacy_policy:
   third_party:
     hosting: github
 
+# Recaptcha in forms
+recaptcha:
+  sitekey: 6LdbdsgUAAAAAF0RwvZAEFVU_t1wZ3Jw_sOiZ2nz
+
 # Collections
 collections:
   home_sections:

@@ -43,6 +43,7 @@
       </div>
       <div class="col-12">
         <ul class="actions">
+          <li><div id="recaptcha-checkbox" ></div></li>
           <li><input type="submit" value="Send Message" class="primary" /></li>
           <li><input type="reset" value="Reset" /></li>
         </ul>
@@ -50,3 +51,13 @@
     </div>
   </form>
 </section>
+<script type="text/javascript">
+    var onloadCallback = function() {
+        grecaptcha.render('recaptcha-checkbox', {
+            'sitekey' : '{{ site.recaptcha.sitekey }}',
+            'theme' : 'dark'
+        });
+    };
+</script>
+<script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer></script>
+
